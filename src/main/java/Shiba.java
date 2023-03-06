@@ -19,7 +19,7 @@ public class Shiba extends Dog{
 
 @Override
 public String sound() {
-    return "wkwk";
+    return "spsp";
 }
 
 }
